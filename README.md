@@ -13,7 +13,7 @@ Bu uygulama, hava durumuna göre kullanıcıya yapay zeka destekli kıyafet öne
    ```bash
    git clone https://github.com/kullaniciadi/KiyafetOneriApp.git
 
-🧩 Görev: Uygulamayı Eksiksiz ve Performanslı Şekilde Tamamlayın
+🧩 Görev: Case'i eksiksiz ve performanslı Şekilde 04.06.2025 tarihine kadar tamamlayın
 
 Verilen kodları detaylıca inceleyin ve aşağıdaki görevleri Jetpack Compose mimarisi doğrultusunda eksiksiz ve hatasız bir şekilde tamamlayın. Kod kalitesine, performansa ve kullanıcı deneyimine özel önem gösterin.
 
